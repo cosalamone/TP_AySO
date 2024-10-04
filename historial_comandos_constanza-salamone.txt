@@ -1,0 +1,90 @@
+ls
+pwd
+cd carpeta_compartida/
+pwd
+cd ..
+pwd
+man man
+man ls
+echo hola mundo
+pwd
+ls
+mkdir primer-carpeta
+ls
+rm -r primer-carpeta/
+ls
+pwd
+ssh-keygen
+ls
+pdw
+pwd
+cd ..
+ls
+man man
+man man ls
+ls
+vagrant/
+cd vagrant/
+pwd
+cd
+ls
+cd repogit2
+ls
+cd TP_AySO/
+head /proc/cpuinfo | grep "modelo_cpu" >> datos_usuario.txt 
+cat datos_usuario.txt 
+/proc/cpuinfo | grep "modelo_cpu" >> datos_usuario.txt 
+cat datos_usuario.txt 
+sudo /proc/cpuinfo | grep "modelo_cpu" >> datos_usuario.txt 
+sudo cpu-info
+sudo apt install cpuinfo
+/proc/cpuinfo | grep "modelo_cpu" >> datos_usuario.txt 
+sudo /proc/cpuinfo | grep "modelo_cpu" >> datos_usuario.txt 
+/proc/cpu-info | grep "modelo_cpu" >> datos_usuario.txt 
+sudo /proc/cpu-info | grep "model name" >> datos_usuario.txt 
+
+grep "model name" /proc/cpuinfo | head -n1
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt 
+cat datos_usuario.txt 
+git status
+git add .
+git commit -m "feat: añadiendo informacion de cpu"
+grep -v "nologin" /etc/passwd
+grep -v "nologin" /etc/passwd | head -n10
+grep -v "nologin" /etc/passwd | head -n10
+man sort via a key
+grep -v "nologin" /etc/passwd | head -n10 | sort -k7
+grep -v "nologin" /etc/passwd | head -n10 | sort -k7 > lista_ordenada
+cat lista_ordenada 
+git status
+git add .
+git commit -m "add: listado de usuarios ordenado"
+man drump traffic
+man drump
+man traffi
+man -k drump traffic
+man dump traffic
+man -k dump traffic
+echo "tcpdump" > comando_dump_net
+cat comando_dump_net 
+echo "man -k dump traffic" > comando_dump_net
+cat comando_dump_net 
+echo "tcpdump" > comando_dump_net
+cat comando_dump_net 
+echo "man -k dump traffic" >> comando_dump_net
+cat comando_dump_net 
+git status
+git add .
+git commit -m "add: comando para capturar y analizar el trafico de red"
+cat << fin >> README.md 
+Alumno: constanza salamone
+division: 312
+turno: noche
+fin
+
+git status 
+git add .
+git commit -m "docs: add informacion alumno into README"
+history
+history -a
